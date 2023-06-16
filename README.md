@@ -205,3 +205,5 @@ Contributions are welcome, please [read the guidelines](CONTRIBUTING.md), come a
 
 [golangci-lint]: https://golangci-lint.run/
 [jaeger]: https://www.jaegertracing.io/
+
+---
